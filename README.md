@@ -8,7 +8,7 @@ An expample of a swipeable cards reusable component from the excellent "[React N
 ## Installation
 
 1. Clone the repo
-2. Change directory to the app: `cd swipe`
+2. Change directory to the app: `cd react-native-swipeable-cards`
 3. Install all dependencies: `yarn install`
 4. Run the app: `yarn start`
 
