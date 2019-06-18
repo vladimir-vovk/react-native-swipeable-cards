@@ -1,6 +1,6 @@
 # React Native Swipeable Cards
 
-An expample of a swipeable cards reusable component from the excellent "[React Native: Advanced Concepts](https://www.udemy.com/course/react-native-advanced/)" course by Stephen Grider.
+An expample of a swipeable cards reusable component from the excellent "[React Native: Advanced Concepts](https://www.udemy.com/course/react-native-advanced/)" course by Stephen Grider. Built with React Native, Expo and Animated module.
 
 ![Cards example](./screen-1.gif)
 ![Loop scrolling](./screen-2.gif)
