@@ -1,6 +1,6 @@
-# Swipable cards (React Native)
+# React Native Swipeable Cards
 
-An expample of a swipable cards reusable component from the excellent "[React Native: Advanced Concepts](https://www.udemy.com/course/react-native-advanced/)" course by Stephen Grider.
+An expample of a swipeable cards reusable component from the excellent "[React Native: Advanced Concepts](https://www.udemy.com/course/react-native-advanced/)" course by Stephen Grider.
 
 ![Cards example](./screen-1.gif)
 ![Loop scrolling](./screen-2.gif)
@@ -8,9 +8,9 @@ An expample of a swipable cards reusable component from the excellent "[React Na
 ## Installation
 
 1. Clone the repo
-2. Change directory to the app `cd swipe`
-3. Install all dependencies with `yarn install`
-4. Run the app with `yarn start`
+2. Change directory to the app: `cd swipe`
+3. Install all dependencies: `yarn install`
+4. Run the app: `yarn start`
 
 ## Supported Props
 
